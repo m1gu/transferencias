@@ -1,0 +1,27 @@
+# Directorios con archivos pesados / no código
+/Docs
+/PruebasLlamadas
+/VocesIA
+
+# Dependencias
+node_modules/
+
+# n8n
+.n8n/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+~$*
